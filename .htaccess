@@ -1,0 +1,6 @@
+<Files staff.html>
+    AuthName "Secure directory"
+    AuthUserFile C:\Users\brend\Desktop\BIT07 AS2\.htpasswd
+    AuthType Basic
+    require valid-user
+</Files>
